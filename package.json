@@ -1,7 +1,7 @@
 {
   "name": "@chainsafe/xdelta3-node",
   "version": "1.0.1",
-  "type": "module",
+  "type": "commonjs",
   "description": "A xdelta3 native binding for Nodejs",
   "license": "Apache-2.0",
   "author": "ChainSafe Systems",
