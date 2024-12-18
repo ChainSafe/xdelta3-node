@@ -22,7 +22,6 @@ When using MacOS, there are a couple of extra prerequisites that are required.
 - :gear: Run `git submodule init` to initialize submodule.
 - :gear: Run `git submodule update` to fetch latest code for submodules.
 - :gear: Run `npm i` to install dependencies.
-- :gear: Run `npm i` to install dependencies.
 - :gear: Run `npm run build:native` to build native dependencies.
 - :gear: Run `npm run build:ts` to build js lib.
 
